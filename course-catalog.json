@@ -10774,13 +10774,13 @@
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "26",
-        "courseAttributeValueDescription": "Common Core (S) for 30-credit program"
+        "courseAttributeValue": "27",
+        "courseAttributeValueDescription": "Common Core (T) for 30-credit program"
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "27",
-        "courseAttributeValueDescription": "Common Core (T) for 30-credit program"
+        "courseAttributeValue": "26",
+        "courseAttributeValueDescription": "Common Core (S) for 30-credit program"
       }
     ]
   },
@@ -10810,13 +10810,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "11",
-        "courseAttributeValueDescription": "Common Core (SSC-S&T) for 36-credit program"
+        "courseAttributeValue": "14",
+        "courseAttributeValueDescription": "Common Core (S&T) for 36-credit program"
       },
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "14",
-        "courseAttributeValueDescription": "Common Core (S&T) for 36-credit program"
+        "courseAttributeValue": "11",
+        "courseAttributeValueDescription": "Common Core (SSC-S&T) for 36-credit program"
       }
     ]
   },
@@ -10851,13 +10851,13 @@
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "26",
-        "courseAttributeValueDescription": "Common Core (S) for 30-credit program"
+        "courseAttributeValue": "27",
+        "courseAttributeValueDescription": "Common Core (T) for 30-credit program"
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "27",
-        "courseAttributeValueDescription": "Common Core (T) for 30-credit program"
+        "courseAttributeValue": "26",
+        "courseAttributeValueDescription": "Common Core (S) for 30-credit program"
       }
     ]
   },
@@ -10894,13 +10894,13 @@
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "26",
-        "courseAttributeValueDescription": "Common Core (S) for 30-credit program"
+        "courseAttributeValue": "27",
+        "courseAttributeValueDescription": "Common Core (T) for 30-credit program"
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "27",
-        "courseAttributeValueDescription": "Common Core (T) for 30-credit program"
+        "courseAttributeValue": "26",
+        "courseAttributeValueDescription": "Common Core (S) for 30-credit program"
       }
     ]
   },
@@ -14187,13 +14187,13 @@
       },
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "BLD",
-        "courseAttributeValueDescription": "[BLD] Blended learning"
+        "courseAttributeValue": "SPO",
+        "courseAttributeValueDescription": "[SPO] Self-paced online delivery"
       },
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "SPO",
-        "courseAttributeValueDescription": "[SPO] Self-paced online delivery"
+        "courseAttributeValue": "BLD",
+        "courseAttributeValueDescription": "[BLD] Blended learning"
       }
     ]
   },
@@ -19107,13 +19107,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "BLD",
-        "courseAttributeValueDescription": "[BLD] Blended learning"
+        "courseAttributeValue": "EXP",
+        "courseAttributeValueDescription": "[EXP] Experiential learning"
       },
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "EXP",
-        "courseAttributeValueDescription": "[EXP] Experiential learning"
+        "courseAttributeValue": "BLD",
+        "courseAttributeValueDescription": "[BLD] Blended learning"
       }
     ]
   },
@@ -19174,13 +19174,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "BLD",
-        "courseAttributeValueDescription": "[BLD] Blended learning"
+        "courseAttributeValue": "EXP",
+        "courseAttributeValueDescription": "[EXP] Experiential learning"
       },
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "EXP",
-        "courseAttributeValueDescription": "[EXP] Experiential learning"
+        "courseAttributeValue": "BLD",
+        "courseAttributeValueDescription": "[BLD] Blended learning"
       }
     ]
   },
@@ -24191,13 +24191,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "BLD",
-        "courseAttributeValueDescription": "[BLD] Blended learning"
+        "courseAttributeValue": "SPO",
+        "courseAttributeValueDescription": "[SPO] Self-paced online delivery"
       },
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "SPO",
-        "courseAttributeValueDescription": "[SPO] Self-paced online delivery"
+        "courseAttributeValue": "BLD",
+        "courseAttributeValueDescription": "[BLD] Blended learning"
       }
     ]
   },
@@ -24689,13 +24689,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "BLD",
-        "courseAttributeValueDescription": "[BLD] Blended learning"
+        "courseAttributeValue": "SPO",
+        "courseAttributeValueDescription": "[SPO] Self-paced online delivery"
       },
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "SPO",
-        "courseAttributeValueDescription": "[SPO] Self-paced online delivery"
+        "courseAttributeValue": "BLD",
+        "courseAttributeValueDescription": "[BLD] Blended learning"
       }
     ]
   },
@@ -27246,13 +27246,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "BLD",
-        "courseAttributeValueDescription": "[BLD] Blended learning"
+        "courseAttributeValue": "EXP",
+        "courseAttributeValueDescription": "[EXP] Experiential learning"
       },
       {
         "courseAttribute": "DELI",
-        "courseAttributeValue": "EXP",
-        "courseAttributeValueDescription": "[EXP] Experiential learning"
+        "courseAttributeValue": "BLD",
+        "courseAttributeValueDescription": "[BLD] Blended learning"
       }
     ]
   },
@@ -28068,13 +28068,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "11",
-        "courseAttributeValueDescription": "Common Core (SSC-S&T) for 36-credit program"
+        "courseAttributeValue": "14",
+        "courseAttributeValueDescription": "Common Core (S&T) for 36-credit program"
       },
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "14",
-        "courseAttributeValueDescription": "Common Core (S&T) for 36-credit program"
+        "courseAttributeValue": "11",
+        "courseAttributeValueDescription": "Common Core (SSC-S&T) for 36-credit program"
       }
     ]
   },
@@ -36411,13 +36411,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "12",
-        "courseAttributeValueDescription": "Common Core (H) for 36-credit program"
+        "courseAttributeValue": "16",
+        "courseAttributeValueDescription": "Common Core (Arts) for 36-credit program"
       },
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "16",
-        "courseAttributeValueDescription": "Common Core (Arts) for 36-credit program"
+        "courseAttributeValue": "12",
+        "courseAttributeValueDescription": "Common Core (H) for 36-credit program"
       }
     ]
   },
@@ -37180,13 +37180,13 @@
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "24",
-        "courseAttributeValueDescription": "Common Core (A) for 30-credit program"
+        "courseAttributeValue": "25",
+        "courseAttributeValueDescription": "Common Core (H) for 30-credit program"
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "25",
-        "courseAttributeValueDescription": "Common Core (H) for 30-credit program"
+        "courseAttributeValue": "24",
+        "courseAttributeValueDescription": "Common Core (A) for 30-credit program"
       },
       {
         "courseAttribute": "MEDI",
@@ -39105,13 +39105,13 @@
       },
       {
         "courseAttribute": "MEDI",
-        "courseAttributeValue": "CA",
-        "courseAttributeValueDescription": "[CA] Cantonese"
+        "courseAttributeValue": "PU",
+        "courseAttributeValueDescription": "[PU] Putonghua"
       },
       {
         "courseAttribute": "MEDI",
-        "courseAttributeValue": "PU",
-        "courseAttributeValueDescription": "[PU] Putonghua"
+        "courseAttributeValue": "CA",
+        "courseAttributeValueDescription": "[CA] Cantonese"
       }
     ]
   },
@@ -39356,13 +39356,13 @@
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "24",
-        "courseAttributeValueDescription": "Common Core (A) for 30-credit program"
+        "courseAttributeValue": "25",
+        "courseAttributeValueDescription": "Common Core (H) for 30-credit program"
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "25",
-        "courseAttributeValueDescription": "Common Core (H) for 30-credit program"
+        "courseAttributeValue": "24",
+        "courseAttributeValueDescription": "Common Core (A) for 30-credit program"
       },
       {
         "courseAttribute": "MEDI",
@@ -43533,13 +43533,13 @@
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "26",
-        "courseAttributeValueDescription": "Common Core (S) for 30-credit program"
+        "courseAttributeValue": "27",
+        "courseAttributeValueDescription": "Common Core (T) for 30-credit program"
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "27",
-        "courseAttributeValueDescription": "Common Core (T) for 30-credit program"
+        "courseAttributeValue": "26",
+        "courseAttributeValueDescription": "Common Core (S) for 30-credit program"
       }
     ]
   },
@@ -54079,11 +54079,6 @@
       },
       {
         "courseAttribute": "MEDI",
-        "courseAttributeValue": "CA",
-        "courseAttributeValueDescription": "[CA] Cantonese"
-      },
-      {
-        "courseAttribute": "MEDI",
         "courseAttributeValue": "EN",
         "courseAttributeValueDescription": "[EN] Taught in Eng/Chin subject to diff. offerings"
       },
@@ -54091,6 +54086,11 @@
         "courseAttribute": "MEDI",
         "courseAttributeValue": "PU",
         "courseAttributeValueDescription": "[PU] Putonghua"
+      },
+      {
+        "courseAttribute": "MEDI",
+        "courseAttributeValue": "CA",
+        "courseAttributeValueDescription": "[CA] Cantonese"
       }
     ]
   },
@@ -65217,13 +65217,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "13",
-        "courseAttributeValueDescription": "Common Core (SA) for 36-credit program"
+        "courseAttributeValue": "14",
+        "courseAttributeValueDescription": "Common Core (S&T) for 36-credit program"
       },
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "14",
-        "courseAttributeValueDescription": "Common Core (S&T) for 36-credit program"
+        "courseAttributeValue": "13",
+        "courseAttributeValueDescription": "Common Core (SA) for 36-credit program"
       }
     ]
   },
@@ -65260,13 +65260,13 @@
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "26",
-        "courseAttributeValueDescription": "Common Core (S) for 30-credit program"
+        "courseAttributeValue": "27",
+        "courseAttributeValueDescription": "Common Core (T) for 30-credit program"
       },
       {
         "courseAttribute": "CC22",
-        "courseAttributeValue": "27",
-        "courseAttributeValueDescription": "Common Core (T) for 30-credit program"
+        "courseAttributeValue": "26",
+        "courseAttributeValueDescription": "Common Core (S) for 30-credit program"
       }
     ]
   },
@@ -80210,13 +80210,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "11",
-        "courseAttributeValueDescription": "Common Core (SSC-S&T) for 36-credit program"
+        "courseAttributeValue": "14",
+        "courseAttributeValueDescription": "Common Core (S&T) for 36-credit program"
       },
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "14",
-        "courseAttributeValueDescription": "Common Core (S&T) for 36-credit program"
+        "courseAttributeValue": "11",
+        "courseAttributeValueDescription": "Common Core (SSC-S&T) for 36-credit program"
       }
     ]
   },
@@ -83929,13 +83929,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "10",
-        "courseAttributeValueDescription": "Common Core (SSC-SA) for 36-credit program"
+        "courseAttributeValue": "13",
+        "courseAttributeValueDescription": "Common Core (SA) for 36-credit program"
       },
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "13",
-        "courseAttributeValueDescription": "Common Core (SA) for 36-credit program"
+        "courseAttributeValue": "10",
+        "courseAttributeValueDescription": "Common Core (SSC-SA) for 36-credit program"
       }
     ]
   },
@@ -84546,13 +84546,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "10",
-        "courseAttributeValueDescription": "Common Core (SSC-SA) for 36-credit program"
+        "courseAttributeValue": "13",
+        "courseAttributeValueDescription": "Common Core (SA) for 36-credit program"
       },
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "13",
-        "courseAttributeValueDescription": "Common Core (SA) for 36-credit program"
+        "courseAttributeValue": "10",
+        "courseAttributeValueDescription": "Common Core (SSC-SA) for 36-credit program"
       }
     ]
   },
@@ -84618,13 +84618,13 @@
     "courseAttributes": [
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "10",
-        "courseAttributeValueDescription": "Common Core (SSC-SA) for 36-credit program"
+        "courseAttributeValue": "13",
+        "courseAttributeValueDescription": "Common Core (SA) for 36-credit program"
       },
       {
         "courseAttribute": "4Y",
-        "courseAttributeValue": "13",
-        "courseAttributeValueDescription": "Common Core (SA) for 36-credit program"
+        "courseAttributeValue": "10",
+        "courseAttributeValueDescription": "Common Core (SSC-SA) for 36-credit program"
       }
     ]
   },
