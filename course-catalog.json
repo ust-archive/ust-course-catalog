@@ -80531,7 +80531,9 @@
     "courseVector": "[3-0-0:3]",
     "courseVectorPrinted": "[3-0-0:3]",
     "courseDescription": "Rechargeable batteries, as one of the most versatile energy storage technologies, play a central role in the ongoing transition from fossil fuel to renewable energy. This course will focus on the environmental footprint, sustainability, and the diagnostics of batteries. History, fundamental science, and cutting-edge research will be covered in the lectures.",
-    "previousCourseCodes": [],
+    "previousCourseCodes": [
+      "SEEN 6000B"
+    ],
     "alternativeCourseCodes": [],
     "coursePrerequisite": "",
     "courseCorequisite": "",
